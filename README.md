@@ -69,7 +69,4 @@ Face-Blurring/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-├── data/
-└── output/
 ```
