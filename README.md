@@ -61,7 +61,7 @@ For video and webcam input, this process is repeated for each frame.
 ## Project structure
 
 ```text
-Face-Blurring/
+face-blurring/
 │
 ├── main.py
 ├── webcam.py
